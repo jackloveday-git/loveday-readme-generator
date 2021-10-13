@@ -1,11 +1,14 @@
 
-  # Professional README Generator
-  ![GitHub](https://img.shields.io/github/license/jackloveday-git/loveday-readme-generator)
+  # README Generator
+  ![GitHub](https://img.shields.io/github/License-mit
+    .toUpperCase()
+    .split('-')
+    .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
   ![GitHub language count](https://img.shields.io/github/languages/count/jackloveday-git/loveday-readme-generator)
   ![GitHub top language](https://img.shields.io/github/languages/top/jackloveday-git/loveday-readme-generator)
   
   ## Description
-  A commandline application, used to generate professional looking README.md files in a quick and clean manner.
+  A node application designed to run in command-line, and produce a quality README.md file
   
   ## Table of Contents
   * [Installation](#installation)
@@ -13,12 +16,12 @@
   * [Credits](#credits)
   * [License](#license)
   ## Installation
-  Pull from Github repository, install node dependencies, run index.js with node.
+  Install npm, run the index.js.
   
   ## Usage 
-  Run via node.js, and see demo video if additional help is required.
+  See Installation Guide.
   
-  Video Demo https://www.youtube.com/watch?v=h0QqXurjzD8&ab_channel=MexicanElmo
+  
   ## Credits
   Jack Loveday
   ## License
@@ -27,8 +30,8 @@
 
   
   ## Tests
-  N/A
+  Test
   ## Questions
   Contact Jack Loveday with any questions!<br>
-  Github link: [jackloveday-git](https://github.com/jackloveday-git)<br>
-  Email: jack.loveday95@gmail.com
+  Github link: [jackloveday-git](https://github.com/jackloveday-git)<br>Email: jack.loveday95@gmail.com
+  
