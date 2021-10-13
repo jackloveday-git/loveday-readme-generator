@@ -5,7 +5,7 @@
   ![GitHub top language](https://img.shields.io/github/languages/top/jackloveday-git/loveday-readme-generator)
   
   ## Description
-  A command-line program to produce a quality README.md file.
+  A command-line program, designed to produce a quality README.md
   
   ## Table of Contents
   * [Installation](#installation)
@@ -13,12 +13,12 @@
   * [Credits](#credits)
   * [License](#license)
   ## Installation
-  Clone repo, install npm, run the index.js file.
+  Clone the loveday-readme-generator repo, install node (npm install), run the program (node index.js).
   
   ## Usage 
-  Run on command-line and enter information like so.
+  Use in command-line to create a quality README.md for any type of licensed application.
   
-  
+  Demo Videos https://watch.screencastify.com/v/VMV3oL4RK8B4hfRC4JRP<br> https://watch.screencastify.com/v/Fkd6h2YMMsswFoFrGKio
   ## Credits
   Jack Loveday
   ## License
