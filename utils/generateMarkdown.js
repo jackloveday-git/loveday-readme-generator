@@ -89,7 +89,7 @@ function generateMarkdown(data) {
   ## Tests
   ${data.test}
   ## Questions
-  Contact ${data.userName} with any questions!<br>
+  Contact the author with any questions!<br>
   Github link: [${data.gitHubName
       .trim()
       .toLowerCase()}](https://github.com/${data.gitHubName.trim().toLowerCase()})<br>Email: ${data.email}
