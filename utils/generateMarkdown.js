@@ -59,10 +59,10 @@ function generateMarkdown(data) {
   renderLicense(data);
   return `
   # ${data.title}
-  ![GitHub](https://img.shields.io/github/License-${data.license}
-    .toUpperCase()
-    .split('-')
-    .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/${data.license}/)
+  [![license](https://img.shields.io/badge/License-${answers.license
+      .toUpperCase()
+      .split('-')
+      .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/${answers.license}/)
   ![GitHub language count](https://img.shields.io/github/languages/count/${data.gitHubName}/${data.repoName})
   ![GitHub top language](https://img.shields.io/github/languages/top/${data.gitHubName}/${data.repoName})
   
