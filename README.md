@@ -1,14 +1,11 @@
 
-  # README Generator
-  ![GitHub](https://img.shields.io/github/License-mit
-    .toUpperCase()
-    .split('-')
-    .join('v')}-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
-  ![GitHub language count](https://img.shields.io/github/languages/count/jackloveday-git/loveday-readme-generator)
-  ![GitHub top language](https://img.shields.io/github/languages/top/jackloveday-git/loveday-readme-generator)
+  # jack
+  [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
+  ![GitHub language count](https://img.shields.io/github/languages/count/jack/jack)
+  ![GitHub top language](https://img.shields.io/github/languages/top/jack/jack)
   
   ## Description
-  A node application designed to run in command-line, and produce a quality README.md file
+  jack
   
   ## Table of Contents
   * [Installation](#installation)
@@ -16,22 +13,22 @@
   * [Credits](#credits)
   * [License](#license)
   ## Installation
-  Install npm, run the index.js.
+  jack
   
   ## Usage 
-  See Installation Guide.
+  jack
   
   
   ## Credits
-  Jack Loveday
+  jack
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
-  Copyright © 2021 [JACK LOVEDAY](https://github.com/jackloveday-git)
+  Copyright © 2021 [JACK JACK](https://github.com/jack)
 
   
   ## Tests
-  Test
+  jack
   ## Questions
-  Contact Jack Loveday with any questions!<br>
-  Github link: [jackloveday-git](https://github.com/jackloveday-git)<br>Email: jack.loveday95@gmail.com
+  Contact jack jack with any questions!<br>
+  Github link: [jack](https://github.com/jack)<br>Email: jack@jack.jack
   
